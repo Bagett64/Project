@@ -1,7 +1,7 @@
 ---
 name: Horváth Ákos
 neptun: ED9MVQ
-id: 2026-OL-05
+id: 2026-OG-05
 github: https://github.com/Bagett64
 github_project: https://github.com/Bagett64/Project
 ---

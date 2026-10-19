@@ -1,8 +1,3 @@
----
-title: "Emergens viselkedés vizsgálata multi-agent szimulációval"
-project_outline: "[[00-project/01-project-outline]]"
----
-
 <!-- @slide Címoldal -->
 
 # Emergens viselkedés vizsgálata multi-agent szimulációval

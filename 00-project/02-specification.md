@@ -1,5 +1,9 @@
+---
+name: Horváth Ákos
+neptun: ED9MVQ
+id: 2026-OG-05
 # Multi-agent szimuláció emergens viselkedés vizsgálatához
-
+---
 ## 1. Szereplők és jogosultságok
 
 | Szerep | Igény | Felelősség / hozzáférés |

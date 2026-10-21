@@ -11,9 +11,9 @@ Szerző: **Horváth Ákos**
 
 Neptun: **ED9MVQ**
 
-Témavezető: **Gábor Oláh**
+Témavezető: **Oláh Gábor**
 
-Projektazonosító: **2026-OL-05**
+Projektazonosító: **2026-OG-05**
 
 ---
 
